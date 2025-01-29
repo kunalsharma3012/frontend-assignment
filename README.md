@@ -1,8 +1,10 @@
-# React + Vite
+# Frontend Assignment
+Live: https://frontend-assignment-inky.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can login into the site by 
+username = user123
+password = pass123
 
-Currently, two official plugins are available:
+Attached a demo video also you can download and check the assignment
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
