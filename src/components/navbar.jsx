@@ -18,7 +18,7 @@ const Navbar = ({ selectedDepartment, setSelectedDepartment }) => {
       Aiworksquad
     </div>
 
-    <div className="flex items-center space-x-4">
+    <div className="flex items-center space-x-4 max-md:my-1">
       {/* Making Department Dropdown Button */}
       <div className="relative">
         <button
@@ -49,7 +49,7 @@ const Navbar = ({ selectedDepartment, setSelectedDepartment }) => {
       </div>
 
       {/* Made User Info Section */}
-      <div className="flex items-center gap-1.5">
+      <div className="flex items-center gap-1.5 max-md:my-1">
         <FaRegUserCircle size={24} />
         <p className="text-lg">Nithin</p>
       </div>

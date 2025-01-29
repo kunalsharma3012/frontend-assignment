@@ -7,7 +7,7 @@ import { IoShieldCheckmarkOutline } from "react-icons/io5";
 
  const Sidebar = () => {
   return (
-    <div className="w-72 relative bg-white shadow-md p-4">
+    <div className="w-72 relative bg-white shadow-md p-4 max-md:w-full">
     <button className="w-full bg-white border border-blue-700 text-blue-700 hover:bg-blue-700 hover:text-white py-2 rounded-lg mb-2">
       + New Chat
     </button>
